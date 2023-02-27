@@ -1,2 +1,1 @@
-// PROCESSING CODE TO CONVERT AN IMAGE TO 1 BIT
-// KEVIN WALKER 2022
+Processing code to convert an image to 1 bit using threshold filter
